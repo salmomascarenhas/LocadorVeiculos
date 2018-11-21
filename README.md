@@ -36,9 +36,9 @@ Este programa está dividido nos seguintes **principais módulos**:
 **3º** Na sua **Área de trabalho** dê clique com o botão direito do mouse e vá em GIT bash here, irá abrir o GitBash. 
 
 **4º** No GitBash digite (copy and paste):
->git clone https://github.com/salmomascarenhas/LocadorVeiculos.git
+>$ git clone https://github.com/salmomascarenhas/LocadorVeiculos.git
 >
-**5º** Faça o login com a sua conta do github na tela que caso apareça (login e senha).
+**5º** Faça o login com a sua conta do github na tela, caso peça (login e senha).
 
 **6º** Verifique a nova pasta clonada com o nome de **LocadorVeiculos** e 		dê dois cliques na mesma.
 
