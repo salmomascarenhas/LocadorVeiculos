@@ -1,5 +1,5 @@
 ## Autor
-Aluno: Salmo da Cruz Mascarenhas - 431447
+Salmo da Cruz Mascarenhas - 431447
 Curso: Engenharia da computação
 
 >**NOTA:**
